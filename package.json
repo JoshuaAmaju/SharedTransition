@@ -1,0 +1,16 @@
+{
+  "name": "SharedTransition",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoshuaAmaju/SharedTransition.git",
+  "author": "Joshua Amaju <princejosh0007@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5"
+  }
+}
